@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins", "Plugins\Plugins.csproj", "{FE43A9E1-7304-4505-8D2F-39A1CAD9A2A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Assets", "Sample.Assets\Sample.Assets.csproj", "{68F68BE1-0AA1-4A9E-91A7-C08C1382C14D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE43A9E1-7304-4505-8D2F-39A1CAD9A2A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE43A9E1-7304-4505-8D2F-39A1CAD9A2A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE43A9E1-7304-4505-8D2F-39A1CAD9A2A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE43A9E1-7304-4505-8D2F-39A1CAD9A2A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F68BE1-0AA1-4A9E-91A7-C08C1382C14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F68BE1-0AA1-4A9E-91A7-C08C1382C14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F68BE1-0AA1-4A9E-91A7-C08C1382C14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F68BE1-0AA1-4A9E-91A7-C08C1382C14D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C5E5518-4715-4353-8F53-53DC00E43B27}
+	EndGlobalSection
+EndGlobal
